@@ -1,0 +1,1403 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "basin": "Bagmati",
+            "name": "Godavari",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Baglung",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "West Rapti",
+            "name": "Bagasoti",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mahakali",
+            "name": "Gaira",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Badigad at Rudrabeni",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Goga (Tilche)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Kamala",
+            "name": "Golbazar",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Aiselukhark",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Gajuri",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Aurahikhola at Godana",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Gamadi Shree Nagar",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Anp Chour",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Babai",
+            "name": "Ghorai (Dang)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Archale",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Arughat (rainfall)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Rato",
+            "name": "Gausala",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Kankai",
+            "name": "Anarmani Birta",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Kankai",
+            "name": "Gauradaha ",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Galkot",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Arun at Turkeghat",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Amlekhganj",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Gaur",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Garbha Durbar",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Gandakot",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Gharedhunga",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mohana",
+            "name": "Bachila",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Godavari",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Gobre",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Budiganga at Chitreghat",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Bandipur",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Keshaliya",
+            "name": "Bahuni",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mahakali",
+            "name": "Darchula New",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Darbang",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "DanpheLek_Snow",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Daman",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Banganga",
+            "name": "Bhagwanpur",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Kankai",
+            "name": "Damak",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "",
+            "name": "Dainsili (Sidhhapur)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Tinau",
+            "name": "Bhairahawa_AWOS_10",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Bharse",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Dailekh_AWS",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mahakali",
+            "name": "Dadeldhura_AWS",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Daulatpur",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Balan-Khado",
+            "name": "Chure Mai",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Bhorleni",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Chautha",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Bimalnagar (Rainfall)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Keshaliya",
+            "name": "Biratnagar_Airport",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Charchhare",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Birganj",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Bobang",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Chandrapur",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mechi",
+            "name": "Chandragadi Airport",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Bolde",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Chandarku",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Chomrong",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mechi",
+            "name": "Bahundangi",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Bedding Rainfall",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Deurali Nawal",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Duwachaur",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Dumkauli",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mahakali",
+            "name": "Baitadi (Gothalapani)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Dudh Koshi at Rabuwabazar",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Dovan",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Bajura",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Dipayal (Doti)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Tinau",
+            "name": "Baldyanggadi",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Dhunibesi",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mohana",
+            "name": "Baliya",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Dhunge",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Baunepati",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "BudhanilKantha",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Balan-Khado",
+            "name": "Dhodhana",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Dhap Dam AWS",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Banskharka",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Dhap (Tarnamlang)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Barmajhiya",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Dhankuta",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "",
+            "name": "Dhangadhi(Attariya)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Barpak",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mohana",
+            "name": "Dhangadhi airport",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mechi",
+            "name": "Barphalyang",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "West Rapti",
+            "name": "Dhakeri",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Dhulikhel",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "West Seti at Dipayal",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Kamala",
+            "name": "Katari",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Gurjakhani",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Pipalchaur",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Rainastar",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Rajaiya (rainfall station)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Lalbakaiya",
+            "name": "Rajuwa",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "West Rapti",
+            "name": "Rajuwara, Pyuthan",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Kankai",
+            "name": "Rake",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "",
+            "name": "Rangapur, Tandi Bazar",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Phidim (Panchther)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Kamala",
+            "name": "RaniChuri",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Babai",
+            "name": "Ratamata",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Lalbakaiya",
+            "name": "Ratanpuri",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Sahu Khark",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Sakhar at Tanahun",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Salleri (Phaplu)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Babai",
+            "name": "Salyan Bazaar_AWS",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Ranimatta",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Sandhikharka",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Pekarnas",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Lokhandeni",
+            "name": "Parwanipur, Sarlahi",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Narayani Field Office",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Narayani at Devghat",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Nawalpur",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "West Rapti",
+            "name": "Nepalgunj airport",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Nepalthok",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Nijgadh",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Lokhandeni",
+            "name": "Pattharkot (East)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Num",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Seti\/Karnali",
+            "name": "Oli Gaun (Patkani)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Pakhribas",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Panchamul",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "",
+            "name": "Panchase",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Panipokhari (Kathmandu)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Parasi",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Okhaldhunga",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Nala",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mechi",
+            "name": "Sanischare",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mahakali",
+            "name": "Santbajh",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "",
+            "name": "Taal",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "",
+            "name": "Sulikot",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Talcha",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Tamakoshi at Busti",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Tamghas_AWS",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Keshaliya",
+            "name": "Tarahara",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Tathali",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Syangja",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Terhathum",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Tikathali",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Tinau",
+            "name": "Tilottama",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Tribeni (Dhankuta)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Rato",
+            "name": "Tulsi",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Tumlingtar",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Kamala",
+            "name": "Udayapur Gadhi",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mohana",
+            "name": "Tikapur",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "",
+            "name": "Sankhu",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Syangboche Airport",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Surkhet Airport (Birendranagar)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Semari",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Shaktikhor",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Shilinge",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Sikles",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "West Rapti",
+            "name": "Sikta",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Simara Airport_AWS",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "West Rapti",
+            "name": "Swargdwari",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Simikot Airport",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Kamala",
+            "name": "Siraha_Hydro",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mechi",
+            "name": "Sisne, Arjundhara",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Kankai",
+            "name": "Soktim Tea State",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Sundarijal",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mahakali",
+            "name": "Sundarpur",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Sundarpur",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Singati",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Gumthang_AWS",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Nagma",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Murkuchi Bazar",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Kalaiya",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Rato",
+            "name": "Kalapani",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Balan-Khado",
+            "name": "Kalyanpur, Saptari",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Kankai",
+            "name": "Kankai, Mainachuli",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mechi",
+            "name": "Kanyam Tea Estate",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mechi",
+            "name": "Kanyam Tea State",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Kapan",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Kakani",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Karkineta",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Karnali at Asaraghat",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Aadhi Khola at Borlangpul (Rainfall)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Katti",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mechi",
+            "name": "Kechana",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Keshaliya",
+            "name": "Kerabari ",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Khadbari",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Karmaiya",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "West Rapti",
+            "name": "Khajura (Nepalganj)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Jumla Airport",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Jomsom",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Mahakali",
+            "name": "Hanman Nagar (Bhamka)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "West Rapti",
+            "name": "Hanspur",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Lalbakaiya",
+            "name": "Hattisude",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Hetauda N.F.I.",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Humde Airport",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Hurikot_Snow",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Jomsom Airport",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Kankai",
+            "name": "Ilam Tea Estate",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Jagat (Setibas)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Jajarkot_AWS",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Jalpa",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Jamu (Tikuwa Kuna)",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Rato",
+            "name": "Janakpur Airport",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Jiri",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Kankai",
+            "name": "Ilam Tea State_AWS",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Nagarkot_AWS",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Khanchikot",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Khudi Bazar",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Lalbakaiya",
+            "name": "Maheshpur",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Makwanpur Gadhi",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Lokhandeni",
+            "name": "Malangwa",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Malunga",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Mandan",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Manekharka",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Mangalsen_AWS",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Machhuwaghat",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Manma_AWS",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Lokhandeni",
+            "name": "Manusmara",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Markhu Gaun",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Melamchi-Ghyang",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Basin From Siwalik Zone",
+            "name": "Mudali Parsa",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "MulGhat",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Muna",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Manthali Airport",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Khotang Bazar",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "MachhapuchhreBaseCamp_Snow",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Tinau",
+            "name": "Lumbini",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Khumaltar",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Bagmati",
+            "name": "Kirtipur",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Lalbakaiya",
+            "name": "Kolbhi",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Kunchha",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Kyangjing_Snow",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Balan-Khado",
+            "name": "Lahan",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Lumle",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "West Rapti",
+            "name": "Lalmatiya",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Lamapatan",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Leguwa Ghat",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "West Rapti",
+            "name": "Liwang",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Karnali",
+            "name": "Lohare Khola at Tallo Dungeshwor",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Lukla Airport",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Narayani",
+            "name": "Pokhara_AWOS_04",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "Koshi",
+            "name": "Lamabagar",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        },
+        {
+            "basin": "West Rapti",
+            "name": " Arghakhanchi",
+            "value": 0,
+            "status": "BELOW WARNING LEVEL"
+        }
+    ]
+} 
